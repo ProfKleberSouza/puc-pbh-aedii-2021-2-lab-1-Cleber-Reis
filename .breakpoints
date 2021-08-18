@@ -1,5 +1,13 @@
 {
   "files": {
+    "exe05/main.c": [
+      {
+        "id": "1ceebff6-e235-4286-9f68-861025b85d36",
+        "line": 13,
+        "version": 99,
+        "index": 169
+      }
+    ],
     "test.sh": [
       {
         "id": "0115a20c-4dd8-48ec-8fe6-6798d2c21090",
